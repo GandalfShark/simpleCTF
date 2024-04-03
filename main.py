@@ -10,7 +10,9 @@
 
 # Edited by Gandalf Sharkmeister for Python version 3.12, April 2, 2024
 # from code at: https://www.exploit-db.com/exploits/46635
-# for use in TryHackMe Simple CTF at:
+# for use in TryHackMe Simple CTF at: https://tryhackme.com/r/room/easyctf
+
+# TODO test on CTF
 
 import requests
 import time
